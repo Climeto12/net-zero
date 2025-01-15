@@ -9,10 +9,10 @@ Why Net Zero Matters:
 Global temperatures are rising due to excess emissions, leading to severe weather events, rising sea levels, and droughts.
 Achieving net zero by 2050 is essential to meet the Paris Agreement’s goal of limiting global warming to 1.5°C.
 Reaching net zero helps prevent catastrophic consequences like ecosystem collapse, food insecurity, and poverty.
+
 How to Achieve Net Zero:
 
 Transition to Renewable Energy:
-
 Shift from fossil fuels (coal, oil, natural gas) to renewable energy sources (wind, solar, hydropower).
 These alternatives produce little to no emissions and are becoming more affordable.
 Improve Energy Efficiency:
@@ -31,8 +31,8 @@ Personal Responsibility and Lifestyle Changes:
 
 Individuals can contribute by using public transport, reducing meat consumption, and supporting sustainable products.
 Reducing waste and mindful consumption also play a critical role.
-The Role of Businesses and Governments:
 
+The Role of Businesses and Governments:
 Governments: Create climate policies, promote renewable energy, fund carbon removal technologies, and encourage sustainable practices.
 Businesses: Set sustainability goals, reduce carbon footprints, and invest in innovation for cleaner solutions.
 The goal is to build a circular economy with products designed to last, be reused, and have minimal environmental impact.
